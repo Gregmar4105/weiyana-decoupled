@@ -24,3 +24,9 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Obsidian local workspace settings
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/backlinks.json
+.obsidian/recent-files-obsidian.json
